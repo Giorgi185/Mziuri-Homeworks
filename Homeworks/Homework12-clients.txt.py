@@ -23,3 +23,6 @@ for Line in file:
 
 print("Emails of users born in 2011:","\n", email_2011)
 print("Unique countries list:","\n",list(countries))
+
+file.close()
+new_file.close()
