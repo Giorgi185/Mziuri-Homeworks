@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc8da524-a4de-477d-b956-35443dfca673" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Projects/Quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Quiz.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Giorgi &lt;ggogokhia2@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Giorgi185&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="dbfb7969-9072-4f15-bcc1-c97e1c3cd8d7" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Giorgi185/Hangman.git&quot;,
+    &quot;accountId&quot;: &quot;dbfb7969-9072-4f15-bcc1-c97e1c3cd8d7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33prdmHM1TVBl3wyw662adoK1Ih" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Homework1.executor": "Run",
+    "Python.Homework10.executor": "Run",
+    "Python.Homework12-clients.txt.executor": "Run",
+    "Python.Homework14.executor": "Run",
+    "Python.Homework2.executor": "Run",
+    "Python.Homework3.executor": "Run",
+    "Python.Homework4.executor": "Run",
+    "Python.Homework6.executor": "Run",
+    "Python.Homework9.executor": "Run",
+    "Python.Loops.executor": "Run",
+    "Python.Quiz.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ggogo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc8da524-a4de-477d-b956-35443dfca673" name="Changes" comment="" />
+      <created>1760024948184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760024948184</updated>
+    </task>
+    <task id="LOCAL-00001" summary="i have added commit done">
+      <option name="closed" value="true" />
+      <created>1768058176483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768058176483</updated>
+    </task>
+    <task id="LOCAL-00002" summary="i have added commit done">
+      <option name="closed" value="true" />
+      <created>1768060131791</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768060131791</updated>
+    </task>
+    <task id="LOCAL-00003" summary="i have added commit done">
+      <option name="closed" value="true" />
+      <created>1768060371606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768060371606</updated>
+    </task>
+    <task id="LOCAL-00004" summary="i have added commit done">
+      <option name="closed" value="true" />
+      <created>1768060535936</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768060535936</updated>
+    </task>
+    <task id="LOCAL-00005" summary="I have added a comment.">
+      <option name="closed" value="true" />
+      <created>1768070235899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768070235899</updated>
+    </task>
+    <task id="LOCAL-00006" summary="I have added a comment">
+      <option name="closed" value="true" />
+      <created>1768071238285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768071238285</updated>
+    </task>
+    <task id="LOCAL-00007" summary="დამატებული (time.sleep()) შემდეგი დონეების დაწყებამდე.">
+      <option name="closed" value="true" />
+      <created>1768232613882</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768232613882</updated>
+    </task>
+    <task id="LOCAL-00008" summary="დამატებული time.sleep() ფუნქცია.">
+      <option name="closed" value="true" />
+      <created>1768232893391</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768232893391</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="i have added commit done" />
+    <MESSAGE value="I have added a comment." />
+    <MESSAGE value="I have added a comment" />
+    <MESSAGE value="დამატებული (time.sleep()) შემდეგი დონეების დაწყებამდე." />
+    <MESSAGE value="დამატებული time.sleep() ფუნქცია." />
+    <option name="LAST_COMMIT_MESSAGE" value="დამატებული time.sleep() ფუნქცია." />
+  </component>
+</project>
