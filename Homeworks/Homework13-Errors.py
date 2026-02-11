@@ -26,7 +26,7 @@
 # num1 = int(input("Enter a number: "))
 # num2 = int(input("Enter a number: "))
 #
-# result = int(divide_numbers(num1,num2))
+# result = divide_numbers(num1,num2)
 # print(result)
 
 #3
@@ -77,16 +77,16 @@
 #     print("Please enter only numbers")
 
 #6
-
-try:
-    triangle_s1 = int(input("Enter a number: "))
-    triangle_s2 = int(input("Enter a number: "))
-    triangle_s3 = int(input("Enter a number: "))
-
-    if  triangle_s1 + triangle_s2 > triangle_s3 and triangle_s1 + triangle_s3 > triangle_s2 and triangle_s2 + triangle_s3 > triangle_s1:
-        average = (triangle_s1 + triangle_s2 + triangle_s3) / 3
-        print(average)
-    else:
-        raise ValueError("These numbers cannot form a triangle")
-except ValueError as Error_message:
-    print("Error: ",Error_message)
+#
+# try:
+#     triangle_s1 = int(input("Enter a number: "))
+#     triangle_s2 = int(input("Enter a number: "))
+#     triangle_s3 = int(input("Enter a number: "))
+#
+#     if  triangle_s1 + triangle_s2 > triangle_s3 and triangle_s1 + triangle_s3 > triangle_s2 and triangle_s2 + triangle_s3 > triangle_s1:
+#         average = (triangle_s1 + triangle_s2 + triangle_s3) / 3
+#         print(average)
+#     else:
+#         raise ValueError("These numbers cannot form a triangle")
+# except ValueError as Error_message:
+#     print("Error: ",Error_message)
