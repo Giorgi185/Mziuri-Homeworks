@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc8da524-a4de-477d-b956-35443dfca673" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Homework13-Errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Homework13-Errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects" beforeDir="false" afterPath="$PROJECT_DIR$/Projects" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/Quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Quiz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,36 +49,45 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="33prdmHM1TVBl3wyw662adoK1Ih" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Homework1.executor": "Run",
-    "Python.Homework10.executor": "Run",
-    "Python.Homework12-clients.txt.executor": "Run",
-    "Python.Homework14.executor": "Run",
-    "Python.Homework2.executor": "Run",
-    "Python.Homework3.executor": "Run",
-    "Python.Homework4.executor": "Run",
-    "Python.Homework6.executor": "Run",
-    "Python.Homework9.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.Quiz.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Homework1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework12-Errors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework12-clients.txt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Quiz.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ggogo\PycharmProjects\Python\Homeworks" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
